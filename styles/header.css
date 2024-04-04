@@ -42,6 +42,10 @@
     font-size: 13px;
     cursor: pointer;
 }
+.nav:hover{
+  color: green;
+  text-decoration: underline;
+}
 
 .left-part{
     margin-left: 100px;
